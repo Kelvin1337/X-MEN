@@ -3,7 +3,7 @@ Status do projeto: Finalizado! :heavy_check_mark:
 
 **Preview da Aplicação:**
 
-![GIF demonstrando a funcionalidade de seleção dos personagens](assets/Projeto X-men.gif)
+
 
 Um projeto simples de **Seleção de Personagens** baseado nos **X-Men**, desenvolvido para praticar conceitos de HTML, CSS (incluindo responsividade) e JavaScript. O objetivo é criar uma interface interativa onde o usuário pode selecionar um personagem e visualizar seus detalhes.
 
