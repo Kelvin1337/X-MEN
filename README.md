@@ -47,14 +47,4 @@ O design foi ajustado para os seguintes pontos de quebra (breakpoints):
 | Largura Máxima | Ajustes Principais |
 | :--- | :--- |
 | **`@media (max-width: 1120px)`** | `flex-direction: column-reverse;` na seção principal, redimensionamento de imagens (miniaturas e destaque), e ajustes de margem/padding para mobile. |
-| **`@media (max-width: 450px)`** | Redução do tamanho da imagem em destaque e ajustes finos no padding do cabeçalho. |
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou correções, sinta-se à vontade para:
-
-1.  Fazer um **Fork** do projeto.
-2.  Criar uma **Branch** para sua feature (`git checkout -b feature/minha-melhoria`).
-3.  Comitar suas mudanças (`git commit -m 'feat: Adiciona nova melhoria'`).
-4.  Fazer **Push** para a Branch (`git push origin feature/minha-melhoria`).
-5.  Abrir um **Pull Request**.
+| **`@media (max-width: 450px)`** | Redução do tamanho da imagem em destaque e ajustes finos no padding do cabeçalho.
