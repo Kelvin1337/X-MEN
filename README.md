@@ -40,11 +40,6 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 *Como alternativa, você pode usar a extensão "Live Server" no VS Code ou ferramenta similar para facilitar a visualização das alterações.*
 
-## 🎨 Estrutura de Arquivos (Sugestão)
-
-O projeto segue a seguinte estrutura de diretórios:
-. ├── src/ │ ├── css/ │ │ ├── estilos.css # Arquivo principal de estilos │ │ └── reset.css # Arquivo para resetar estilos padrão do navegador │ ├── imagens/ │ │ ├── bg-desktop.jpg # Imagem de fundo │ │ ├── card-.jpg # Miniaturas dos personagens │ │ ├── card-.png # Imagens grandes dos personagens │ │ └── logo.svg # Logo do projeto │ └── js/ │ └── index.js # Lógica JavaScript (a ser implementada) └── index.html # Arquivo principal HTML └── README.md # Esta documentação
-
 ## 📐 Layout Responsivo
 
 O design foi ajustado para os seguintes pontos de quebra (breakpoints):
