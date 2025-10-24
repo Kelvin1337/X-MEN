@@ -1,7 +1,9 @@
 # Projeto X-Men: Seleção de Personagens
 Status do projeto: Finalizado! :heavy_check_mark:
 
-![Capa do Projeto - Uma imagem representativa da tela de seleção de personagens](https://github.com/chelo-1/X-MEN/assets/131183713/b8a3a475-9378-473c-ba42-27410ca6482d)
+**Preview da Aplicação:**
+
+![GIF demonstrando a funcionalidade de seleção dos personagens](assets/Projeto X-men.gif)
 
 Um projeto simples de **Seleção de Personagens** baseado nos **X-Men**, desenvolvido para praticar conceitos de HTML, CSS (incluindo responsividade) e JavaScript. O objetivo é criar uma interface interativa onde o usuário pode selecionar um personagem e visualizar seus detalhes.
 
@@ -26,15 +28,15 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Para rodar este projeto localmente, siga os passos abaixo:
 
-1. **Clone o repositório:**
+1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/Kelvin1337/X-MEN.git](https://github.com/Kelvin1337/X-MEN.git)
     ```
-2. **Navegue até o diretório do projeto:**
+2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd nome-do-repositorio
+    cd X-MEN
     ```
-3. **Abra o arquivo `index.html`** no seu navegador de preferência.
+3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
 
 *Como alternativa, você pode usar a extensão "Live Server" no VS Code ou ferramenta similar para facilitar a visualização das alterações.*
 
