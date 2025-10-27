@@ -9,15 +9,12 @@
 
 ### 🔄 Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
+O projeto foi finalizado com as seguintes funcionalidades:
 
 - [x] Estrutura de cards de personagens em HTML semântico
 - [x] Estilização com CSS3, variáveis e tema neon/dark
 - [x] Responsividade para desktop, tablet e mobile
 - [x] Efeitos de seleção interativa e troca de imagens com fade
-- [ ] Adição de backend para salvar preferências do usuário
-- [ ] Inclusão de novos personagens e descrições
-- [ ] Otimização de performance e carregamento de imagens
 
 ## 💻 Pré-requisitos
 
