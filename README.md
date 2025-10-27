@@ -1,50 +1,31 @@
-# Projeto X-Men: Seleção de Personagens
-Status do projeto: Finalizado! :heavy_check_mark:
+# 🦸 Projeto X-Men: Seleção de Personagens
 
-**Preview da Aplicação:**
+![GitHub repo size](https://img.shields.io/github/repo-size/Kelvin1337/X-MEN?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Kelvin1337/X-MEN?style=for-the-badge)
 
+<img src="./src/img/screenshot.png" alt="Screenshot do Projeto X-Men">
 
+> Projeto de seleção interativa de personagens dos X-Men, desenvolvido para praticar conceitos de HTML, CSS (com responsividade) e JavaScript. Interface moderna com efeitos de destaque e animações suaves.
 
-Um projeto simples de **Seleção de Personagens** baseado nos **X-Men**, desenvolvido para praticar conceitos de HTML, CSS (incluindo responsividade) e JavaScript. O objetivo é criar uma interface interativa onde o usuário pode selecionar um personagem e visualizar seus detalhes.
+### 🔄 Ajustes e melhorias
 
-## 🚀 Tecnologias Utilizadas
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+- [x] Estrutura de cards de personagens em HTML semântico
+- [x] Estilização com CSS3, variáveis e tema neon/dark
+- [x] Responsividade para desktop, tablet e mobile
+- [x] Efeitos de seleção interativa e troca de imagens com fade
+- [ ] Adição de backend para salvar preferências do usuário
+- [ ] Inclusão de novos personagens e descrições
+- [ ] Otimização de performance e carregamento de imagens
 
-* **HTML5:** Estrutura e marcação do conteúdo.
-* **CSS3:** Estilização, layout responsivo e animações.
-* **JavaScript (Puro):** Para a lógica de interação (seleção e troca de informações dos personagens).
-* **Google Fonts:** Utilização da fonte *Oxanium*.
+## 💻 Pré-requisitos
 
-## ✨ Funcionalidades
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* **Seleção Interativa:** Ao clicar ou navegar (usando o teclado) nos cards dos personagens, o personagem selecionado é destacado.
-* **Exibição de Detalhes:** O nome e a descrição do personagem selecionado são atualizados no painel lateral.
-* **Troca de Imagem:** A imagem em destaque do personagem é trocada de forma suave (efeito `fade-in`/`fade-out`).
-* **Design Responsivo:** O layout se adapta a diferentes tamanhos de tela (desktop, tablet e mobile) conforme as media queries definidas.
-* **Estilo Neon/Dark:** Utiliza variáveis CSS para gerenciar cores e transições, dando um aspecto moderno e temático.
+- Você instalou a versão mais recente do navegador Google Chrome, Firefox ou Edge.
+- Você tem uma máquina Windows, Linux ou Mac.
+- Você leu a documentação básica sobre HTML, CSS e JavaScript.
 
-## 🛠️ Instalação e Execução
-
-Para rodar este projeto localmente, siga os passos abaixo:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/Kelvin1337/X-MEN.git](https://github.com/Kelvin1337/X-MEN.git)
-    ```
-2.  **Navegue até o diretório do projeto:**
-    ```bash
-    cd X-MEN
-    ```
-3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
-
-*Como alternativa, você pode usar a extensão "Live Server" no VS Code ou ferramenta similar para facilitar a visualização das alterações.*
-
-## 📐 Layout Responsivo
-
-O design foi ajustado para os seguintes pontos de quebra (breakpoints):
-
-| Largura Máxima | Ajustes Principais |
-| :--- | :--- |
-| **`@media (max-width: 1120px)`** | `flex-direction: column-reverse;` na seção principal, redimensionamento de imagens (miniaturas e destaque), e ajustes de margem/padding para mobile. |
-| **`@media (max-width: 450px)`** | Redução do tamanho da imagem em destaque e ajustes finos no padding do cabeçalho. |
+## 😄 Seja um dos contribuidores
+- Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
