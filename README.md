@@ -1,4 +1,4 @@
-# 🦸 Projeto X-Men: Seleção de Personagens
+# Projeto X-Men: Seleção de Personagens
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Kelvin1337/X-MEN?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Kelvin1337/X-MEN?style=for-the-badge)
