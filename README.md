@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Kelvin1337/X-MEN?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Kelvin1337/X-MEN?style=for-the-badge)
 
-<img src="src/imagens/screenshot.png" alt="Screenshot do Projeto X-Men">
+<img src="./imagens/screenshot.png" alt="Screenshot do Projeto X-Men">
 
 > Projeto de seleção interativa de personagens dos X-Men, desenvolvido para praticar conceitos de HTML, CSS (com responsividade) e JavaScript. Interface moderna com efeitos de destaque e animações suaves.
 
